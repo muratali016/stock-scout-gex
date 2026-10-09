@@ -1,5 +1,8 @@
 # Stock Scout — Free GEX & Market Analytics
 
+<img width="2531" height="1169" alt="stock scout pic" src="https://github.com/user-attachments/assets/bed851da-e700-4a9b-8e71-22fe534252ec" />
+
+
 **Explore gamma exposure without a $700/month analytics subscription.**
 
 Stock Scout is a free, self-hosted Dash dashboard that calculates GEX locally
