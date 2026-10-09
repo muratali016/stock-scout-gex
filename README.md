@@ -66,6 +66,18 @@ option-chain fields. It does **not** claim to reproduce a premium vendor's
 proprietary feed, trade classification, historical chain archive, or dealer
 inventory assumptions.
 
+## Compared with premium GEX tools
+
+I tested Stock Scout side by side with premium GEX platforms. In those
+comparisons, the free calculations were very close on the levels that matter
+most for trading: major positive and negative gamma walls, the overall gamma
+regime, important support/resistance zones, and directional structure.
+
+Exact GEX dollar values will not always match. Commercial tools can use
+different feeds, snapshot times, expiration filters, smoothing, and dealer-sign
+assumptions. The useful result is that this free model can identify much of the
+same actionable gamma structure without requiring an expensive subscription.
+
 yfinance does not provide historical intraday open-interest and implied-
 volatility snapshots. Intraday GEX replay therefore holds the current chain's
 OI/IV fixed and reprices gamma through historical underlying prices. It is a
