@@ -1,4 +1,4 @@
-# Stock Scout — Free GEX & Market Analytics
+# Stock Scout Free GEX & Market Analytics
 
 <img width="2531" height="1169" alt="stock scout pic" src="https://github.com/user-attachments/assets/bed851da-e700-4a9b-8e71-22fe534252ec" />
 
