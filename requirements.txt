@@ -1,0 +1,12 @@
+alpaca-py>=0.34
+yfinance>=0.2
+pymongo>=4.6
+pandas>=2.1
+numpy>=1.26
+dash>=2.14
+dash-bootstrap-components>=1.5
+plotly>=5.18
+python-dotenv>=1.0
+scipy>=1.12
+google-generativeai>=0.4
+requests>=2.31
